@@ -1,4 +1,4 @@
-package com.yourajlearningjava.customLinkedList;
+package com.yourajlearningjava.customLinkedList.singlyLinkedList;
 
 public class CustomLinkedList {
     private Node head;

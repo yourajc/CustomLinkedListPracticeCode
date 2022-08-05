@@ -1,4 +1,6 @@
-package com.yourajlearningjava.customLinkedList;
+package com.yourajlearningjava.customLinkedList.singlyLinkedList;
+
+import com.yourajlearningjava.customLinkedList.singlyLinkedList.CustomLinkedList;
 
 public class Main {
     public static void main(String[] args) {

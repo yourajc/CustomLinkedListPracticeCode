@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dd12a74-6bc0-4a33-aaa4-a68278369c80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customLinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yourajlearningjava/customLinkedList/CustomLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yourajlearningjava/customLinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yourajlearningjava/customLinkedList/singlyLinkedList/doubly/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yourajlearningjava/customLinkedList/singlyLinkedList/doubly/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yourajlearningjava/customLinkedList/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yourajlearningjava/customLinkedList/singlyLinkedList/CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yourajlearningjava/customLinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yourajlearningjava/customLinkedList/singlyLinkedList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +44,11 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yourajlearningjava.customLinkedList.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.yourajlearningjava.customLinkedList.singlyLinkedList.Main" />
       <module name="customLinkedList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yourajlearningjava.customLinkedList.*" />
+          <option name="PATTERN" value="com.yourajlearningjava.customLinkedList.singlyLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,7 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.yourajlearningjava.customLinkedList.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -73,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659621080740</updated>
-      <workItem from="1659621082400" duration="13451000" />
+      <workItem from="1659621082400" duration="15615000" />
     </task>
     <servers />
   </component>
